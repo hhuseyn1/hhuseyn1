@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @hhuseyn1</h1>
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning c#
 
-- 📫 How to reach me **huseynhemi@gmail.com**
+- 📫 How to reach me huseynhemi@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
