@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @hhuseyn1</h1>
+- Hi 👋, I'm @hhuseyn1
 - 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **huseynhemi@gmail.com**
