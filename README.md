@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Huseyn</h1>
+- Hi 👋, I'm @hhuseyn1
 - 🌱 I’m currently learning **C#**
-
+- 🎯 My goal is become **.Net** dev
 - 📫 How to reach me **huseynhemi@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
