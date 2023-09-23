@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm @hhuseyn1<br>🌱 I’m currently learning **C#**<br>🎯 My goal is become **.Net** dev<br>📫 How to reach me **huseynhemi@gmail.com**
+Hi 👋, I'm @hhuseyn1<br>🌱 I’m currently learning **ASP.NET Web API**<br>🎯 My goal is become **.Net** dev<br>📫 How to reach me **huseynhemi@gmail.com**
 
 
 ## 🌐 Socials:
