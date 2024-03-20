@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm @hhuseyn1<br>🌱 I’m currently learning **React**<br>🎯 My goal is become **.NET** dev<br>📫 How to reach me **huseynhemi@gmail.com**
+Hi 👋, I'm @hhuseyn1<br>🌱 I’m currently learning **Next.js**<br>🎯 My goal is become **.NET** dev<br>📫 How to reach me **huseynhemi@gmail.com**
   
 
 ## 🌐 Socials:
