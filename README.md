@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm @hhuseyn1<br>🌱 I’m currently learning **Node.js**<br>🎯 My goal is become Senior **.NET** dev<br>📫 How to reach me **huseynhemi@gmail.com**
+Hi 👋, I'm @hhuseyn1<br>🌱 I’m currently learning **Node.js**<br>🎯 My goal is become Senior **FullStack** dev<br>📫 How to reach me **huseynhemi@gmail.com**
   
 
 ## 🌐 Socials:
