@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm @hhuseyn1<br>🌱 I’m currently middle **.net** developer<br>📫 How to reach me **huseynhemi@gmail.com**
+Hi 👋, I'm @hhuseyn1<br>🌱 I’m currently Middle **.Net** Developer<br>📫 How to reach me **huseynhemi@gmail.com**
   
 
 ## 🌐 Socials:
